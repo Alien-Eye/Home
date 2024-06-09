@@ -11,6 +11,7 @@ layout: default
 
 ## 1.RunDroid
 RunDroid is a 2D fast-paced action platformer where you are trying to help a recently manufactured Droid pass the quality control trials.
+[RunDroid Privacy Policy](https://alien-eye.github.io/RunDroid-Privacy-Policy/)
 
 
 ### Screenshots:
@@ -38,6 +39,7 @@ Coming soon.
 
 ## 2.Balance Ball
 Balance Ball is a classic adventure game where you play as a ball trying to reach the end of the level by avoiding obstacles.
+[Balance Ball Privacy Policy](https://alien-eye.github.io/BalanceBall-PrivacyPolicy/)
 
 
 ### Screenshots:
