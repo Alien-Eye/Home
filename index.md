@@ -5,7 +5,7 @@ layout: default
 
 
 <p align="center">
-  <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Game%20Icon%202-512.png" alt="Icon">
+  <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Game%20Icon%202-512.png?raw=true" alt="Icon">
 </p>
 
 
@@ -17,11 +17,11 @@ RunDroid is a 2D fast-paced action platformer where you are trying to help a rec
 
 ### Screenshots:
 <p align="center">
-  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Launch%20Trailer%20Thumbnail.png" alt="Screenshot">
-  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%201.png" alt="Screenshot">
-  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%203.png" alt="Screenshot">
-  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%205.png" alt="Screenshot">
-  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%206.png" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Launch%20Trailer%20Thumbnail.png?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%201.png?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%203.png?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%205.png?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%206.png?raw=true" alt="Screenshot">
 </p>
 
 
