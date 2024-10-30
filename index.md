@@ -35,7 +35,7 @@ RunDroid is a 2D fast-paced action platformer where you are trying to help a rec
 
 
 <p align="center">
-  <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Game%20Icon-Circle-512.png?raw=true" alt="Icon">
+  <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/Balance%20Ball/Game%20Icon-Circle-512.png?raw=true" alt="Icon">
 </p>
 
 
@@ -47,10 +47,10 @@ Balance Ball is a classic adventure game where you play as a ball trying to reac
 
 ### Screenshots:
 <p align="center">
-  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-0.PNG?raw=true" alt="Screenshot">
-  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-1.PNG?raw=true" alt="Screenshot">
-  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-2.PNG?raw=true" alt="Screenshot">
-  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-3.PNG?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/Balance%20Ball/Screenshot-0.PNG?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/Balance%20Ball/Screenshot-1.PNG?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/Balance%20Ball/Screenshot-2.PNG?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/Balance%20Ball/Screenshot-3.PNG?raw=true" alt="Screenshot">
 </p>
 
 
