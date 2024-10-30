@@ -5,7 +5,7 @@ layout: default
 
 
 <p align="center">
-  <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Game%20Icon-Circle-512.png?raw=true" alt="Icon">
+  <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Game%20Icon%202-512.png" alt="Icon">
 </p>
 
 
@@ -17,15 +17,16 @@ RunDroid is a 2D fast-paced action platformer where you are trying to help a rec
 
 ### Screenshots:
 <p align="center">
-  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%200.jpg?raw=true" alt="Screenshot">
-  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%201.jpg?raw=true" alt="Screenshot">
-  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%202.jpg?raw=true" alt="Screenshot">
-  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%203.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Launch%20Trailer%20Thumbnail.png" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%201.png" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%203.png" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%205.png" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Screenshot%206.png" alt="Screenshot">
 </p>
 
 
 ### Download:
-Coming soon.
+<a href="https://play.google.com/store/apps/details?id=com.AlienEye.RunDroid&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img style="margin-top: -15px; width: 30%; height: 30%;" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?raw=true"/></a>
 
 
 <p align="center" style="margin-top: 100px;">
