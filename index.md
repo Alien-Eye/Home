@@ -46,7 +46,8 @@ Upcoming.
 
 
 ## 2.RunDroid
-RunDroid is a 2D fast-paced action platformer where you are trying to help a recently manufactured Droid pass the quality control trials.
+Help our newly built Droid conquer its quality control trials!
+In this 2D fast-paced action platformer, guide your resilient Droid through 54 meticulously designed levels filled with lethal obstacles—from radioactive hazards and scorching lava to surging water challenges. Every level tests your reflexes as you dodge, jump, and dash to survive!
 
 [RunDroid Privacy Policy](https://alien-eye.github.io/RunDroid-Privacy-Policy/)
 
