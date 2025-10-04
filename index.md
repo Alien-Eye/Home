@@ -3,13 +3,49 @@ layout: default
 ---
 # Games:
 
+<p align="center">
+  <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/dcc0137405ea950d3fde138f3784fe40d4fb4779/Balance%20Ball%202/Launch%20Media/Balance%20Ball%202-Icon-512-Circle.png?raw=true" alt="Icon">
+</p>
+
+
+## 1.Balance Ball 2
+Balance Ball 2 is the ultimate 3D ball rolling adventure!
+
+Switch between Wood, Rock, and Paper balls – each with its own unique weight, physics, and handling. Every ball rolls, balances, and interacts with the world differently, challenging you to adapt your skills on the fly.
+
+Conquer 36 handcrafted levels filled with deadly traps, tricky platforms, and precision jumps. Stay sharp, keep your balance, and don’t fall into the void!
+
+[Balance Ball 2 Privacy Policy](https://alien-eye.github.io/BalanceBall2-PrivacyPolicy/)
+
+
+### Screenshots:
+<p align="center">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/dcc0137405ea950d3fde138f3784fe40d4fb4779/Balance%20Ball%202/Launch%20Media/Balance%20Ball%202-Thumpnail.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/dcc0137405ea950d3fde138f3784fe40d4fb4779/Balance%20Ball%202/Launch%20Media/Screenshot-6.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/dcc0137405ea950d3fde138f3784fe40d4fb4779/Balance%20Ball%202/Launch%20Media/Screenshot-2.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/dcc0137405ea950d3fde138f3784fe40d4fb4779/Balance%20Ball%202/Launch%20Media/Screenshot-3.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/dcc0137405ea950d3fde138f3784fe40d4fb4779/Balance%20Ball%202/Launch%20Media/Screenshot-4.jpg?raw=true" alt="Screenshot">
+</p>
+
+
+### Download:
+Upcoming.
+
+
+<p align="center" style="margin-top: 100px;">
+  _______________________________________________________________________
+</p>
+
+
+
+
 
 <p align="center">
   <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/7258255cf0d8e3c91f55c08af324cc8555e8a486/RunDroid/Launch%20Media/Game%20Icon%202-512.png?raw=true" alt="Icon">
 </p>
 
 
-## 1.RunDroid
+## 2.RunDroid
 RunDroid is a 2D fast-paced action platformer where you are trying to help a recently manufactured Droid pass the quality control trials.
 
 [RunDroid Privacy Policy](https://alien-eye.github.io/RunDroid-Privacy-Policy/)
@@ -39,7 +75,7 @@ RunDroid is a 2D fast-paced action platformer where you are trying to help a rec
 </p>
 
 
-## 2.Balance Ball
+## 3.Balance Ball
 Balance Ball is a classic adventure game where you play as a ball trying to reach the end of the level by avoiding obstacles.
 
 [Balance Ball Privacy Policy](https://alien-eye.github.io/BalanceBall-PrivacyPolicy/)
