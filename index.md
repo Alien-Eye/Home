@@ -29,7 +29,7 @@ Conquer 36 handcrafted levels filled with deadly traps, tricky platforms, and pr
 
 
 ### Download:
-Upcoming.
+<a href="https://play.google.com/store/apps/details?id=com.AlienEye.BalanceBall2&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img style="margin-top: -15px; width: 30%; height: 30%;" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?raw=true"/></a>
 
 
 <p align="center" style="margin-top: 100px;">
