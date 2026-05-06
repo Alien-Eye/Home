@@ -4,7 +4,7 @@ layout: default
 # Games:
 
 <p align="center">
-  <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/dcc0137405ea950d3fde138f3784fe40d4fb4779/Balance%20Ball%202/Launch%20Media/Balance%20Ball%202-Icon-512-Circle.png?raw=true" alt="Icon">
+  <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/3001bf3f1fdbd3754e0a656d585b5e2a87020d36/Rolling%20Ball/Launch%20Media/Rolling%20Ball-Game%20Icon-512-Circle.png?raw=true" alt="Icon">
 </p>
 
 ## 1.Rolling Ball
@@ -36,6 +36,10 @@ Conquer 60 handcrafted levels filled with deadly traps, tricky platforms, and pr
 </p>
 
 
+
+<p align="center">
+  <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/dcc0137405ea950d3fde138f3784fe40d4fb4779/Balance%20Ball%202/Launch%20Media/Balance%20Ball%202-Icon-512-Circle.png?raw=true" alt="Icon">
+</p>
 
 ## 2.Balance Ball 2
 Balance Ball 2 is the ultimate 3D ball rolling adventure!
