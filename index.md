@@ -19,13 +19,18 @@ Conquer 60 handcrafted levels filled with deadly traps, tricky platforms, and pr
 
 ### Screenshots:
 <p align="center">
-  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/8be5129a520981409f29dc072b7aefe42702fdea/Rolling%20Ball/Launch%20Media/Rolling%20Ball-Thumpnail.png?raw=true" alt="Screenshot">
-  <img class="verticalScreenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/8be5129a520981409f29dc072b7aefe42702fdea/Rolling%20Ball/Launch%20Media/Screenshot-5.png?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/8be5129a520981409f29dc072b7aefe42702fdea/Rolling%20Ball/Launch%20Media/Rolling%20Ball-Thumpnail.png?raw=true" alt="Screenshot"> 
+</p>
+
+<p align="center">
+  
+<img class="verticalScreenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/8be5129a520981409f29dc072b7aefe42702fdea/Rolling%20Ball/Launch%20Media/Screenshot-5.png?raw=true" alt="Screenshot">
   <img class="verticalScreenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/8be5129a520981409f29dc072b7aefe42702fdea/Rolling%20Ball/Launch%20Media/Screenshot-6.png?raw=true" alt="Screenshot">
   <img class="verticalScreenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/8be5129a520981409f29dc072b7aefe42702fdea/Rolling%20Ball/Launch%20Media/Screenshot-2.png?raw=true" alt="Screenshot">
   <img class="verticalScreenshot" src="https://github.com/Alien-Eye/Alien-Eye-Resources/blob/8be5129a520981409f29dc072b7aefe42702fdea/Rolling%20Ball/Launch%20Media/Screenshot-8.png?raw=true" alt="Screenshot">
-</p>
 
+</p>
+  
 
 ### Download: Upcoming
 
