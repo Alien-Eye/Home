@@ -14,7 +14,7 @@ Switch between Wood, Rock, and Paper balls – each with its own unique weight, 
 
 Conquer 60 handcrafted levels filled with deadly traps, tricky platforms, and precision jumps. Stay sharp, keep your balance, and don’t fall into the void!
 
-[Rolling Ball Privacy Policy](https://alien-eye.github.io/BalanceBall2-PrivacyPolicy/)
+[Rolling Ball Privacy Policy](https://alien-eye.github.io/RollingBall-PrivacyPolicy/)
 
 
 ### Screenshots:
