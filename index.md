@@ -32,7 +32,8 @@ Conquer 60 handcrafted levels filled with deadly traps, tricky platforms, and pr
 </p>
   
 
-### Download: Upcoming
+### Download:
+<a href="https://play.google.com/store/apps/details?id=com.AlienEye.rollingball"><img style="margin-top: -15px; width: 30%; height: 30%;" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?raw=true"/></a>
 
 
 <p align="center" style="margin-top: 100px;">
